@@ -44,7 +44,7 @@ A to do List application that allows users to create and manage their tasks. It 
    -  Uncompleted Tasks
 3. Ability to mark tasks as **completed** or **uncompleted**.
 4. Ability to edit and delete tasks.
-5. Ability to search for tasks using a search bar.
+5. Ability to search for tasks using a search bar designed seamlessly.
 6. Responsive design that works well on desktop and mobile devices.
 7. Integration with local storage to persist data between sessions.
 
