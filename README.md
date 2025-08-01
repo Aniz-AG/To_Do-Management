@@ -88,7 +88,7 @@ A to do List application that allows users to create and manage their tasks. It 
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/ZiadSheriif/Todo-List.git
+$ git clone https://github.com/Aniz-AG/To_Do-Management.git
 ```
 
 2. **_Navigate to TodoList Folder_**
